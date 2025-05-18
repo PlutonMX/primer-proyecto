@@ -15,6 +15,7 @@ It’s designed to raise awareness about the dangers of indirectly sharing perso
 [🔗 Check out the live demo on Render] (https://primer-proyecto-6xui.onrender.com/)
 
 🧰 Technologies Used
+
 Node.js
 
 Express.js
@@ -29,23 +30,38 @@ JavaScript
 
 
 git clone https://github.com/YOURUSERNAME/User-Tracker.git
+
 cd User-Tracker
+
 npm install
+
 node index.js
+
 Make sure you have Node.js installed.
+
 
 📂 Project Structure
 
 📦 User-Tracker
+
  ┣ 📂 views/
+
  ┃ ┣ 📄 index.ejs
+
  ┃ ┗ 📄 ...
+
  ┣ 📂 public/
+
  ┃ ┣ 📄 style.css
+
  ┃ ┗ 📄 ...
+
  ┣ 📄 index.js
+
  ┣ 📄 package.json
+
  ┗ 📄 README.md
+
 🧠 Purpose
 
 Teach how IP address, browser, and approximate location can be tracked when visiting a site.
